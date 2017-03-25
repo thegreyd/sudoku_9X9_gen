@@ -1,4 +1,4 @@
-## SUDOKOU GRID GENERATOR
+## SUDOKU GRID GENERATOR
 
 ### Description
 A Javascript program to generate a random 9X9 Sudoku grid.
